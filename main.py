@@ -262,7 +262,7 @@ model.compile(
 history = model.fit(
     X,
     y,
-    epochs=30,
+    epochs=5,
     batch_size=32,
     validation_split=0.1
 )
