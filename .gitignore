@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+McGill-Billboard/
+billboard.tar.gz
+generated_chords.csv
+.DS_Store
