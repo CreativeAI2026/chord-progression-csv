@@ -297,7 +297,7 @@ def sample_with_temperature_batch(pred_batch, temperature=1.0):
 # --------------------
  
 NUM_GENERATIONS = 500   # ここを増やすほど多くのパターンを生成する
-TEMPERATURE = 1.5
+TEMPERATURE = 0.8
 GEN_LEN = 8
  
 # NUM_GENERATIONS個ぶんのseedを一度にまとめて選ぶ
